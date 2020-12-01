@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/_Resources/Scenes/Bedroom_Lead.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
