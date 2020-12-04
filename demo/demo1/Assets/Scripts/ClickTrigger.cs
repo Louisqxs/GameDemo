@@ -9,6 +9,8 @@ public class ClickTrigger : MonoBehaviour
     // Use this for initialization
     void Start()
     {
+        gameObject.GetComponent<CanvasGroup>().alpha = 0;
+        gameObject.transform.localScale = Vector3.zero;
     }
     public void Hide()
     {
