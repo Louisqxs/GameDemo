@@ -46,7 +46,8 @@ MonoBehaviour:
   nameText: Rey
   nameColor: {r: 0, g: 0, b: 0, a: 1}
   soundEffect: {fileID: 0}
-  portraits: []
+  portraits:
+  - {fileID: 21300000, guid: 579e31f0fd8288643aede5e5ee8a66e7, type: 3}
   portraitsFace: 0
   setSayDialog: {fileID: 0}
   description: 

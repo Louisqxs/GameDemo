@@ -215,7 +215,7 @@ MonoBehaviour:
   storyTextGO: {fileID: 0}
   characterImage: {fileID: 0}
   fitTextWithImage: 1
-  closeOtherDialogs: 0
+  closeOtherDialogs: 1
 --- !u!114 &4086153259072543721
 MonoBehaviour:
   m_ObjectHideFlags: 0

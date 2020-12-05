@@ -24,7 +24,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &6426289886165519637
 RectTransform:
   m_ObjectHideFlags: 0
@@ -138,7 +138,7 @@ MonoBehaviour:
   storyTextGO: {fileID: 0}
   characterImage: {fileID: 6426289886726723057}
   fitTextWithImage: 1
-  closeOtherDialogs: 0
+  closeOtherDialogs: 1
 --- !u!114 &6426289886165519646
 MonoBehaviour:
   m_ObjectHideFlags: 0
